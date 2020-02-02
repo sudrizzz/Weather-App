@@ -1,0 +1,15 @@
+form {
+    margin-top: 3rem;
+}
+
+form input {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+}
+
+input:focus {
+    outline: none;
+}

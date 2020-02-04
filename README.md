@@ -1,2 +1,7 @@
-# weather
-build with react
+## Usage
+
+```
+cd recipe-app
+npm install
+npm start
+```

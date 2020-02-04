@@ -1,7 +1,7 @@
 ## Usage
 
 ```
-cd recipe-app
+cd weather-app
 npm install
 npm start
 ```
